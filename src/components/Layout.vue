@@ -1,6 +1,6 @@
 <template>
 <header>
-  <h1 class="text-2xl text-red">News Portal</h1>
+  <h1>News Portal</h1>
   <nav>
     <ul>
       <li>Home</li>
